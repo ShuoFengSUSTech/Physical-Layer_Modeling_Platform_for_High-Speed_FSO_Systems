@@ -1,4 +1,4 @@
-# Inter-Satellite_Optical_Link_Analyzer_ISOLA
+# Physical-Layer_Modeling_Platform_for_High-Speed_FSO_Systems
 
 Supervised by Professor C. Patrick Yue, we developed this Inter-Satellite Optical Link Analyzer (ISOLA) for practical satellite communications.
 
